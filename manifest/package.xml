@@ -23,7 +23,7 @@
         <name>ApexTestSuite</name>
     </types>
     <types>
-        <members>*</members>
+        <members>MaintenanceRequest</members>
         <name>ApexTrigger</name>
     </types>
     <types>
